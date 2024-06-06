@@ -1,0 +1,27 @@
+{
+  "users": {
+    "sadikturan": {
+      "firstName": "Sadık",
+      "lastName": "Turan",
+      "age": 41
+    },
+    "cinarturan": {
+      "firstName": "Ãƒâ€¡Ã„Â±nar",
+      "lastName": "Turan"
+    }
+  },
+  "products": {
+    "1": {
+      "title": "Macbook Air",
+      "price": 70000
+    },
+    "2": {
+      "title": "Samsung S25",
+      "price": 90000
+    },
+    "3": {
+      "title": "Samsung S26",
+      "price": 90000
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Id,ProductName,Price,IsActive,Category,Rating
+1,IPhone 14,57600.0,False,Telefon,4.5
+2,IPhone 15,72000.0,False,Telefon,4.4
+3,IPhone 16,86400.0,True,Telefon,4.3
+4,IPhone 17,100800.0,True,Telefon,4.6
+5,IPhone 18,115200.0,True,Telefon,4.7
+6,MacBook Air,129600.0,True,Bilgisayar,4.8
+7,MacBook Pro,144000.0,True,Bilgisayar,4.9

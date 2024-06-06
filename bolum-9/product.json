@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "title": "Macbook Pro",
+  "price": 90000,
+  "rating": "4.5",
+  "category": "Bilgısayar",
+  "colors": [
+    "Red",
+    "Blue"
+  ]
+}
